@@ -1,0 +1,6 @@
+{"theme": "academy", "slug": "academy-card-the-moon", "title": "Card of the day: The Moon",
+ "scenes": [
+  {"type": "hook", "lines": ["Learn tarot", "*one card a day."], "sub": "Today: The Moon"},
+  {"type": "card", "bg": "vt-world.webp", "kicker": "Card of the day", "name": "The Moon", "card": "web/19_the_moon.webp", "words": ["Mist", "Dream", "Uncertainty"], "sub": "Three words. One doorway."},
+  {"type": "cta", "logo": "academy", "kicker": "Learn all 78 at The Veil Academy", "url": "theveil.quest/school", "foot": "Word association · original deck · graduation certificate"}
+ ]}

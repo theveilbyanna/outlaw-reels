@@ -1,0 +1,7 @@
+{"theme": "frickfake", "slug": "frickfake-real-ones", "title": "FrickFake real ones",
+ "scenes": [
+  {"type": "hook", "kicker": "BE HONEST:", "lines": ["WHEN DID SOCIAL", "MEDIA GET THIS", "*FAKE?"]},
+  {"type": "xlist", "title": "NOT ON FRICKFAKE:", "items": ["bots", "scammers", "catfish", "fake rich", "ragebait"], "after": "A real person checks every member."},
+  {"type": "bullets", "title": "WHAT YOU GET", "numbered": true, "items": [["Your own number", "Low numbers = OG members"], ["Buddy list + away messages", "Like the old days"], ["No DMs until you say yes", "Strangers can't even knock"]]},
+  {"type": "cta", "logo": "frickfake", "kicker": "Real people only.", "url": "frickfake-qizi.vercel.app", "foot": "First 100 = founding members"}
+ ]}
