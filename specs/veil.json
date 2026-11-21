@@ -1,0 +1,6 @@
+{"theme": "veil", "slug": "veil-crystal-room", "title": "Veil crystal room",
+ "scenes": [
+  {"type": "hook", "bg": "ch-crystal.webp", "lines": ["The crystal ball", "*already knows."], "sub": "Do you want to?"},
+  {"type": "statement", "bg": "vt-hub.webp", "text": "Every room of The Veil gives you one free reading a day.", "sub": "Tarot · Runes · Astrology · Tea Leaf · Palm"},
+  {"type": "cta", "logo": "veil", "kicker": "Step through tonight", "url": "theveil.quest", "foot": "One free reading in every room, every day"}
+ ]}

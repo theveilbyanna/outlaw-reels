@@ -1,0 +1,6 @@
+{"theme": "pocket", "slug": "pocket-built-first-app", "title": "Pocket Built first app",
+ "scenes": [
+  {"type": "hook", "lines": ["YOU DON'T NEED", "A LAPTOP", "*TO BUILD AN APP."]},
+  {"type": "bullets", "title": "HOW I DO IT:", "numbered": true, "items": [["Build it with AI", "Describe it. AI writes the code."], ["Save it on GitHub", "Free. Right from your browser."], ["Go live on Vercel", "Free hosting. A real link."]], "foot": "All free tools. All from my phone."},
+  {"type": "cta", "logo": "pocket", "headline": "The whole playbook.", "button": "GET THE BOOK · LINK IN BIO", "foot": "Step by step, from someone who did it"}
+ ]}

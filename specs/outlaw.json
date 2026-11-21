@@ -1,0 +1,7 @@
+{"theme": "outlaw", "slug": "outlaw-meta-ads-research", "title": "Outlaw Built Media research",
+ "scenes": [
+  {"type": "hook", "lines": ["YOUR AD ISN'T", "*THE PROBLEM."], "sub": "Skipping the research is."},
+  {"type": "bullets", "title": "BEFORE I SPEND $1:", "numbered": true, "items": [["Who's buying", "Audience + what they care about"], ["Who you're up against", "Competitor ads, offers, angles"], ["Why they'd say yes", "Offer + creative that fit"]]},
+  {"type": "big", "kicker": "Then every week", "big": "REPORTS", "sub": "ON TIME.", "checks": ["Meta ads: Facebook + Instagram", "White label for agencies"]},
+  {"type": "cta", "logo": "outlaw", "headline": "Now taking clients.", "url": "outlawbuiltmedia@gmail.com", "button": "OR DM ME", "foot": "Meta Ads · White Label · Research · Weekly Reports"}
+ ]}

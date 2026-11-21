@@ -1,0 +1,8 @@
+{"theme": "uaom", "slug": "uaom-after-hours", "title": "UAOM after-hours calls",
+ "scenes": [
+  {"type": "hook", "kicker": "HVAC & PLUMBING OWNERS", "lines": ["It's 9 PM.", "*Your phone rings."], "sub": "Who answers it?"},
+  {"type": "chat", "title": "Your AI receptionist does", "messages": [["them", "Hi, my AC is blowing warm air. Can someone come tomorrow?"], ["me", "Yes! We have 8:00 AM open tomorrow. What's your name?"], ["them", "Maria. Thank you!"], ["me", "You're booked, Maria. The tech will call before arriving."]]},
+  {"type": "bullets", "title": "While you sleep it", "items": [["Answers every call & text", "Nights, weekends, on the job"], ["Books the appointment", "Straight into your calendar"], ["Takes a message", "Name, number, what they need"]]},
+  {"type": "big", "kicker": "Get set up for", "big": "$95", "sub": "ONBOARDING", "checks": ["I set it all up for you", "Test it before it goes live", "Month to month. No contract."]},
+  {"type": "cta", "logo": "uaom", "headline": "Stop losing after-hours jobs.", "url": "ultimateaiofficemaster.com", "button": "Book a free call", "foot": "HVAC & plumbing · Riverside County"}
+ ]}
