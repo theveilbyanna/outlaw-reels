@@ -1,0 +1,69 @@
+{
+ "theme": "frickfake",
+ "slug": "frickfake-away-messages-top-8",
+ "title": "Away messages and Top 8 are back",
+ "angle": "bring back away messages / Top 8 is back (90s-00s nostalgia)",
+ "scenes": [
+  {
+   "type": "hook",
+   "kicker": "OLD INTERNET KIDS:",
+   "lines": [
+    "REMEMBER",
+    "*AWAY",
+    "*MESSAGES?"
+   ]
+  },
+  {
+   "type": "chat",
+   "title": "BUDDY LIST",
+   "messages": [
+    [
+     "them",
+     "hey u there??"
+    ],
+    [
+     "me",
+     "AWAY: at band practice. back by 8. leave a msg :)"
+    ],
+    [
+     "them",
+     "lol ok, I'll wait"
+    ]
+   ],
+   "dur": 5.5
+  },
+  {
+   "type": "bullets",
+   "title": "THEY'RE BACK.",
+   "items": [
+    [
+     "Buddy list + away messages",
+     "Set your status, go live your life"
+    ],
+    [
+     "Your Top 8",
+     "Pick your real ones"
+    ],
+    [
+     "Profile song + your colors",
+     "Make your page yours again"
+    ]
+   ],
+   "dur": 6.2
+  },
+  {
+   "type": "statement",
+   "text": "Same old-school feel.\nNo bots. No scammers.\nNo catfish.",
+   "sub": "A real human verifies every new member.",
+   "dur": 5.0
+  },
+  {
+   "type": "cta",
+   "logo": "frickfake",
+   "kicker": "Real people only.",
+   "url": "frickfake-qizi.vercel.app",
+   "button": "ENROLL + GET YOUR NUMBER",
+   "foot": "First 100 members = founding members"
+  }
+ ]
+}

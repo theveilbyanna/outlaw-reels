@@ -1,0 +1,60 @@
+{
+ "theme": "pocket",
+ "slug": "pocket-built-app-building-myths",
+ "title": "4 myths keeping you from building an app",
+ "angle": "myths about needing a laptop/coding",
+ "scenes": [
+  {
+   "type": "hook",
+   "kicker": "WANT TO BUILD AN APP?",
+   "lines": [
+    "4 MYTHS",
+    "*KEEPING YOU",
+    "FROM BUILDING."
+   ],
+   "sub": "Let's cross them off.",
+   "dur": 4.4
+  },
+  {
+   "type": "xlist",
+   "title": "MYTH: YOU NEED...",
+   "items": [
+    "A laptop",
+    "To know code",
+    "A bootcamp",
+    "A dev budget"
+   ],
+   "after": "What I had: a cracked Android phone.",
+   "dur": 6.4
+  },
+  {
+   "type": "statement",
+   "text": "Everything I've shipped,\nI built on that phone.",
+   "sub": "The Veil · FrickFake · my apps",
+   "dur": 4.4
+  },
+  {
+   "type": "big",
+   "kicker": "The book",
+   "big": "10",
+   "sub": "LESSONS · 39 PAGES",
+   "checks": [
+    "Build it with AI",
+    "Save it on GitHub, free",
+    "Go live on Vercel, free",
+    "Bonus: a posting machine"
+   ],
+   "dur": 6.4
+  },
+  {
+   "type": "cta",
+   "logo": "pocket",
+   "kicker": "If I can do it on a cracked phone,",
+   "headline": "so can you.",
+   "url": "payhip.com/b/c1Elt",
+   "button": "GET THE BOOK · LINK IN BIO",
+   "foot": "Book + Pocket App Builder bundle",
+   "dur": 6.4
+  }
+ ]
+}

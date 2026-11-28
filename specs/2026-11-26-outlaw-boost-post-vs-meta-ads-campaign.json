@@ -1,0 +1,67 @@
+{
+ "theme": "outlaw",
+ "slug": "outlaw-boost-post-vs-meta-ads-campaign",
+ "title": "Boosting posts or running real Meta ads?",
+ "angle": "boosting posts vs. running real campaigns (ask, don't claim)",
+ "scenes": [
+  {
+   "type": "hook",
+   "kicker": "SMALL BUSINESS OWNERS",
+   "lines": [
+    "Still hitting",
+    "*BOOST POST?"
+   ],
+   "sub": "Answer 3 questions first.",
+   "dur": 4.2
+  },
+  {
+   "type": "bullets",
+   "title": "BEFORE YOU BOOST:",
+   "numbered": true,
+   "items": [
+    [
+     "Who is it for?",
+     "An audience you researched, not a guess"
+    ],
+    [
+     "What should they do?",
+     "Call, book, buy or message you"
+    ],
+    [
+     "How will you know?",
+     "A report you can actually read"
+    ]
+   ],
+   "dur": 7.0
+  },
+  {
+   "type": "statement",
+   "text": "A boost is a button.\nA campaign is a plan.",
+   "sub": "Can you answer all 3?",
+   "dur": 4.6
+  },
+  {
+   "type": "big",
+   "kicker": "Every campaign starts with",
+   "big": "RESEARCH",
+   "sub": "AT EVERY STAGE.",
+   "checks": [
+    "Market + audience",
+    "Competitors + offer",
+    "Creative that fits",
+    "Weekly reports, on time"
+   ],
+   "dur": 6.2
+  },
+  {
+   "type": "cta",
+   "logo": "outlaw",
+   "kicker": "Meta ads: Facebook + Instagram",
+   "headline": "Run a real campaign.",
+   "url": "outlawbuiltmedia@gmail.com",
+   "button": "OR DM ME",
+   "foot": "Meta Ads · White Label · Research · Weekly Reports",
+   "dur": 6.0
+  }
+ ]
+}

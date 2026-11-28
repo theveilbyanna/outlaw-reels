@@ -1,0 +1,87 @@
+{
+ "theme": "academy",
+ "slug": "veil-academy-major-vs-minor-arcana",
+ "title": "Major vs Minor Arcana, made simple",
+ "angle": "Major vs Minor Arcana",
+ "scenes": [
+  {
+   "type": "hook",
+   "kicker": "Tarot for beginners",
+   "lines": [
+    "78 cards.",
+    "*Only 2 families."
+   ],
+   "sub": "Major vs Minor Arcana, made simple",
+   "dur": 3.6
+  },
+  {
+   "type": "big",
+   "kicker": "The Major Arcana",
+   "big": "22",
+   "sub": "Big life chapters",
+   "checks": [
+    "The Fool to The World",
+    "Turning points and lessons"
+   ],
+   "dur": 4.2
+  },
+  {
+   "type": "big",
+   "kicker": "The Minor Arcana",
+   "big": "56",
+   "sub": "Everyday life",
+   "checks": [
+    "4 suits of 14 cards",
+    "Ace to 10, then Page to King"
+   ],
+   "dur": 4.4
+  },
+  {
+   "type": "bullets",
+   "title": "The 4 suits",
+   "items": [
+    [
+     "Wands",
+     "Fire · action and passion"
+    ],
+    [
+     "Cups",
+     "Water · feelings and love"
+    ],
+    [
+     "Swords",
+     "Air · thoughts and conflict"
+    ],
+    [
+     "Pentacles",
+     "Earth · work, money, body"
+    ]
+   ],
+   "dur": 5.8,
+   "foot": "In The Veil deck: Vines · Birds · Shards · Stones"
+  },
+  {
+   "type": "card",
+   "bg": "vt-world.webp",
+   "kicker": "Card of the day",
+   "name": "Three of Stones",
+   "card": "web/67_three_of_pentacles.webp",
+   "words": [
+    "Craft",
+    "Teamwork",
+    "Apprentice"
+   ],
+   "sub": "Stones = Pentacles. Learning a craft.",
+   "dur": 5.4
+  },
+  {
+   "type": "cta",
+   "logo": "academy",
+   "kicker": "Learn all 78 with 3 words each",
+   "url": "theveil.quest/school",
+   "button": "Begin your first lesson",
+   "foot": "Word association · original deck · graduation certificate",
+   "dur": 5.8
+  }
+ ]
+}

@@ -1,0 +1,60 @@
+{
+ "theme": "veil",
+ "slug": "veil-pick-a-room-free-reading",
+ "title": "Pick a room: which one calls you?",
+ "angle": "which room calls to you (pick a room)",
+ "scenes": [
+  {
+   "type": "hook",
+   "bg": "vt-hub.webp",
+   "kicker": "Don't overthink it",
+   "lines": [
+    "Pick a room.",
+    "*Trust your gut."
+   ],
+   "sub": "Which one is calling you tonight?",
+   "dur": 4.4
+  },
+  {
+   "type": "bullets",
+   "bg": "vt-world.webp",
+   "title": "Which room calls you?",
+   "numbered": true,
+   "items": [
+    [
+     "Tarot",
+     "Pull a card. Ask one question."
+    ],
+    [
+     "Runes",
+     "Cast the old stones."
+    ],
+    [
+     "Tea Leaves",
+     "Read the shapes in the cup."
+    ],
+    [
+     "Crystal Ball",
+     "Look into the glass."
+    ]
+   ],
+   "foot": "Palm \u00b7 Astrology \u00b7 Animal Oracle too",
+   "dur": 6.8
+  },
+  {
+   "type": "statement",
+   "bg": "ch-crystal.webp",
+   "text": "Whichever room you picked, your reading is free.",
+   "sub": "One free reading in every room, every day.",
+   "dur": 4.8
+  },
+  {
+   "type": "cta",
+   "logo": "veil",
+   "headline": "Your room is waiting",
+   "url": "theveil.quest",
+   "button": "Get your free reading",
+   "dur": 6.0
+  }
+ ]
+}
